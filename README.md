@@ -1,0 +1,1 @@
+In these Clinic Management i have used Asp.net and C# and At the Databases as SQL Server.These website create a comprehensive solutions for Managing All Clinic Activities.like schedule online Appoinment,Patient lab test report generate,patient bill generation and Other so many things.
